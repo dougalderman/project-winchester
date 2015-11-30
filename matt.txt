@@ -3,3 +3,5 @@ More changes
 Even more changes
 
 Changes within browser
+
+This commit will conflict
